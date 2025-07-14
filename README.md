@@ -14,11 +14,11 @@ after blah. The problem occured again after blah was added (fix terminology). Re
 # How to run
 The plugin was developed using a virtual environment on a local Windows machine. The following programs must be installed to run the plugin.
 
-Virtual Environment (Preferably Oracle’s VirtualBox)
-Vagrant
-Laravel Homestead
-WordPress
-phpMyAdmin
-MySQL
+* Virtual Environment (Preferably Oracle’s VirtualBox)
+* Vagrant
+* Laravel Homestead
+* WordPress
+* phpMyAdmin
+* MySQL
 
 To download the instructions of installing WordPress with Laravel Homestead, along with the other required software, click [here](https://github.com/user-attachments/files/21222285/WordPress.Download.Instructions.docx.pdf) to download the instructions PDF.
